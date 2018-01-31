@@ -54,5 +54,5 @@
     <string name="question_nine_option_b">No</string>
     <string name="finished_button_text">Press the button to get your score.</string>
     <string name="Turntable_image">Turntable image</string>
-    <string name="toast">Your Score is = <xliff:g example="5" id="score"></xliff:g></string>
+    <string name="toast">Your Score is = </string>
 </resources>
