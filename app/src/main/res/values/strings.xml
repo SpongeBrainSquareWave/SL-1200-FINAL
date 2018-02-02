@@ -34,7 +34,7 @@
 <string name="question_six_option_c">19</string>
 <string name="question_six_option_d">21</string> <!-- CORRECT-->
 <string name="question_seven_title">Question 7</string>
-<string name="question_seven">How long does it take the SL-1200/SL-1210 to reach set speed from standstill?)</string>
+<string name="question_seven">How long does it take the SL-1200/SL-1210 to reach set speed from standstill?</string>
 <string name="question_seven_option_a">0.3s</string>
 <string name="question_seven_option_b">0.7s</string> <!-- CORRECT-->
 <string name="question_seven_option_c">1.2s</string>
